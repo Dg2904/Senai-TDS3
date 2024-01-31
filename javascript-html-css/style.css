@@ -1,0 +1,13 @@
+.primeiraDivId{
+    background-color: red;
+}
+.TelaPrincipalDiv{
+
+    background-color: bisque;
+    width: 100%;
+    height: 86vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
